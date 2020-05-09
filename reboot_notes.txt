@@ -1,0 +1,3 @@
+2020-04-29
+I've decided to return to this ML project, to re-familiarize myself with ML concepts and these Python packages, and
+also to see if I leverage the last year and a half of experience to take the project further.
