@@ -1,0 +1,6 @@
+/.idea/
+/.env/
+/data/raw/
+/from_old_proj/
+/data/label_dtypes.json
+/.env_file
